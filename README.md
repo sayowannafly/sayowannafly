@@ -9,7 +9,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [Syzdykovf@bk.ru](mailto:Syzdykovf@bk.ru)
-* 🧠  I'm learning Vue
+* 🧠  I'm learning Vue and React
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
