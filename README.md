@@ -8,7 +8,7 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Astana
-* ✉️  You can contact me at [Syzdykovf@bk.ru](mailto:sayo.sara@mail.ru)
+* ✉️  You can contact me at [Sayo.sara@mail.ru](mailto:sayo.sara@mail.ru)
 * 🧠  I'm learning Vue and React
 * 🤝  I'm open to collaborating on interesting projects
 
