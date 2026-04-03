@@ -1,13 +1,7 @@
 ![hk](https://github.com/user-attachments/assets/7ad82d27-9911-46f8-a70d-a62c9bedb83a)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azim
-================================================================================================================================
 
-* 🌍  I'm based in Astana
-* ✉️  You can contact me at [Sayo.sara@mail.ru](mailto:sayo.sara@mail.ru)
-* 🧠  I'm learning Vue and React
-* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
