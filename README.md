@@ -4,9 +4,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azim
 ================================================================================================================================
 
-Web Developer and Designer
---------------------------
-
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [Sayo.sara@mail.ru](mailto:sayo.sara@mail.ru)
 * 🧠  I'm learning Vue and React
